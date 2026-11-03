@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <item>
     <version>1.0.0.1</version>
-    <url>https://github.com/Leeewis/InformeCombustible/releases/download/v1.0.0.1/Setup.exe</url>
-    <changelog>https://github.com/Leeewis/InformeCombustible</changelog>
+    <url>https://github.com/Leeewis/InformeCombustible/releases/download/V1.0.0.1/setup.exe</url>
+    <changelog>Lanzamiento inicial de la versión 1.0.0.1</changelog>
     <mandatory>false</mandatory>
 </item>
